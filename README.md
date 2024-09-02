@@ -5,3 +5,16 @@ team members working on this project (fictional)-
 1) Sahil k
 2) user RJ
 3) mac Pritam
+
+
+
+
+#FoodFiesta
+
+## Project Overview
+
+1) User Authentication - Implements user login, Registration and authentication functionalitties
+
+2) Order tracking - allows user to track their orders and view their order history
+
+3) Payment system - Adds functionality for users to make payment and view payment history
